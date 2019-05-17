@@ -1,9 +1,9 @@
-**Ray Wasif**
+*Ray Wasif*
 
 [ray_ramez@yahoo.com](mailto:ray_ramez@yahoo.com)| 310-715-9431 | Everett, Washington
 
-GitHub: [https://github.com/ramezray](https://github.com/ramezray) | LinkedIn: [https://www.linkedin.com/in/ray-wasif/](https://www.linkedin.com/in/ray-wasif/)|
-
+GitHub: [https://github.com/ramezray](https://github.com/ramezray) | 
+LinkedIn: [https://www.linkedin.com/in/ray-wasif/](https://www.linkedin.com/in/ray-wasif/)|
 Portfolio: [https://ramezray.github.io/Portfolio-V1/](https://ramezray.github.io/Portfolio-V1/)
 
 **SUMMARY**
