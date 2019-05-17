@@ -48,7 +48,7 @@ Our App designed to help user to get direction and possible places to visit in
 - Provided feedback to improve programming technique and efficiency.
 - Motivated students to attain personal goals.
 
-### **Technician** - QBSI-XEROX – North Seattle Area ** Jan. 2017 – Current**
+### **Technician** - QBSI-XEROX – North Seattle Area  Jan. 2017 – Current
 
 Provide first-level contact, problem debugging and determine proper solutions for customers&#39; issues
 
