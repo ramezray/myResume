@@ -42,13 +42,13 @@ Our App designed to help user to get direction and possible places to visit in
 
 ## **EXPERIENCE**
 
-### **Teaching Assistant-Part Time** **– UW Professional &amp; Continuing Education May 2019 – Current**
+### **Teaching Assistant-Part Time** **– UW Professional &amp; Continuing Education - May 2019 – Current**
 
 - Educated students in the field of web development.
 - Provided feedback to improve programming technique and efficiency.
 - Motivated students to attain personal goals.
 
-### **Technician** - QBSI-XEROX – North Seattle Area  Jan. 2017 – Current
+### **Technician** - QBSI-XEROX – North Seattle Area - Jan. 2017 – Current
 
 Provide first-level contact, problem debugging and determine proper solutions for customers&#39; issues
 
@@ -59,8 +59,8 @@ Provide first-level contact, problem debugging and determine proper solutions fo
 
 ## **EDUCATION**
 
-### **University of Washington**, Bellevue, WA Full Stack Web Development Bootcamp
+### **University of Washington**, Bellevue, WA -- Full Stack Web Development Bootcamp
 
-### **Edmonds Community College** , Lynnwood, WA Information Systems, Associate Degree
+### **Edmonds Community College** , Lynnwood, WA -- Information Systems, Associate Degree
 
-### **Cairo University**, Cairo, Egypt, Accounting, Bachelor&#39;s Degree
+### **Cairo University**, Cairo, Egypt -- Accounting, Bachelor&#39;s Degree
