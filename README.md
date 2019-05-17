@@ -1,7 +1,6 @@
 # **Ray Wasif**
 
 [ray_ramez@yahoo.com](mailto:ray_ramez@yahoo.com)| 310-715-9431 | Everett, Washington
-
 GitHub: [https://github.com/ramezray](https://github.com/ramezray) | 
 LinkedIn: [https://www.linkedin.com/in/ray-wasif/](https://www.linkedin.com/in/ray-wasif/)|
 Portfolio: [https://ramezray.github.io/Portfolio-V1/](https://ramezray.github.io/Portfolio-V1/)
@@ -49,7 +48,7 @@ Our App designed to help user to get direction and possible places to visit in
 - Provided feedback to improve programming technique and efficiency.
 - Motivated students to attain personal goals.
 
-### **Technician** **- QBSI-XEROX – North Seattle Area ** **Jan. 2017 – Current**
+### **Technician** - QBSI-XEROX – North Seattle Area ** Jan. 2017 – Current**
 
 Provide first-level contact, problem debugging and determine proper solutions for customers&#39; issues
 
@@ -60,8 +59,8 @@ Provide first-level contact, problem debugging and determine proper solutions fo
 
 ## **EDUCATION**
 
-### **University of Washington\*\*** , **Bellevue, WA** Full Stack Web Development Bootcamp\*\*
+### **University of Washington**, Bellevue, WA Full Stack Web Development Bootcamp
 
-### **Edmonds Community College\*\*** , **Lynnwood, WA** Information Systems, Associate Degree\*\*
+### **Edmonds Community College** , Lynnwood, WA Information Systems, Associate Degree
 
-### **Cairo University\*\*** , **Cairo, Egypt ** Accounting, Bachelor&#39;s Degree\*\*
+### **Cairo University**, Cairo, Egypt, Accounting, Bachelor&#39;s Degree
